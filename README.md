@@ -1,3 +1,6 @@
+
+Code borrowed from [30 Seconds of Knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
