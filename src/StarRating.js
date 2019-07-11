@@ -1,5 +1,5 @@
 import React from 'react';
-import './StarRating.css'
+import './index.css'
 
 function Star({ marked, starId }) {
   return (
@@ -19,7 +19,7 @@ function StarRating(props) {
     setSelection(val);
   };
   return (
-    <div className="StarRating-header"
+    <div className="StarRating"
       onMouseOut={() => hoverOver(null)}
       onClick={(event) => setRating(event.target.getAttribute('star-id') || rating)}
       onMouseOver={hoverOver}
