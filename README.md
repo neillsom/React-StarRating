@@ -1,5 +1,6 @@
-
 Code borrowed from [30 Seconds of Knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge)
+
+![react-star-rating](https://github.com/neillsom/React-StarRating/blob/master/src/images/react-star-rating.jpg?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
